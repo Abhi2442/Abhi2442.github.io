@@ -8,6 +8,6 @@ This repository contains my solutions to the Module - 2
 
 <b>Solution Links:</b> <br>
 - [Module 2 Solution](http://Abhi2442.github.io/Abhi2442.github.io/index.html)<br>
-- [Module 3 Solution](http://Abhi2442.github.io/Abhi2442.github.io/module2/hotel.html) 
+- [Module 3 Solution](http://Abhi2442.github.io/Abhi2442.github.io/Module2/hotel.html) 
 
 
